@@ -66,7 +66,7 @@
     {
       "identity" : "tapfontkit-ios",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/Tap-Payments/TapFontKit-iOS.git",
+      "location" : "https://github.com/batuhangobekli/TapFontKit-iOS",
       "state" : {
         "revision" : "279ac52e3f05d04eaa14eecc548f5de9124cdf89",
         "version" : "0.0.10"
